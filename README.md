@@ -11,5 +11,5 @@ This is a good example of a [gist](https://gist.github.com/KaiSiang99/b811bcb260
 
 ### Images
 
-This is an [image](![image](https://github.com/user-attachments/assets/1b69470d-c519-4562-ae5a-e6313405c755)
-)
+![image](https://github.com/user-attachments/assets/95a02b5f-f70f-4f07-83d3-89586f41124d)
+
